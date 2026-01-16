@@ -73,7 +73,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - [The Simplicity Code: Designing Intelligent Architecture Without the Buzzwords](slides/The%20Simplicity%20Code-%20Designing%20Intelligent%20Architecture%20Without%20the%20Buzzwords.pdf)
 - Diet Docker: Crafting lightweight containers with multi-stage builds
 - Everyday SIGINT: Counter-Surveillance with Rayhunter
-- Full-Stack Flexing with Ruby on Rails
+- [Full-Stack Flexing with Ruby on Rails](https://github.com/RobertStevenson/talks/blob/main/Full-Stack%20Flexing%20with%20Ruby%20on%20Rails.pdf)
 - [Learning Computer Science By Building Analog Synthesizers](https://speakerdeck.com/craigstuntz/learning-computer-science-via-building-analog-synthesizers)
 - The Death of the Traditional Sprint: What’s Next for Agile Teams?
 - [The Lost Art Of Code Reviews](slides/Lost_Art_Code_Reviews.pdf)
